@@ -75,7 +75,7 @@ TWILIO_AUTH_TOKEN=''
 python app.py
 ```
 
-Usage
+## Usage
 To send P2000 messages, simply send a WhatsApp message with the text "P2000" to the Twilio phone number that you associated with this app.
 Note: You need to activate the sandbox, and associate your own phone number with the sandbox first. See the Twilio documentation:
 https://www.twilio.com/docs/whatsapp/sandbox
