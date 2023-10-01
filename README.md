@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 
 2. Clone this repository
-
+  
 3. Create a .env file in the root of the repository and add your the following information:
 
 ```
