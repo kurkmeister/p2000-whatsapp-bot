@@ -66,11 +66,11 @@ pip install -r requirements.txt
 3. Create a .env file in the root of the repository and add your the following information:
 
 ```
-GOOGLE_GEOCODE_SECRET=''
-TWILIO_WHATSAPP_NUMBER=''
-TWILIO_PERSONAL_NUMBER=''
-TWILIO_ACCOUNT_SID=''
-TWILIO_AUTH_TOKEN=''
+GOOGLE_GEOCODE_SECRET='your-api-key-here'
+TWILIO_WHATSAPP_NUMBER='whatsapp:+162077631122'
+TWILIO_PERSONAL_NUMBER='whatsapp:+31612345678'
+TWILIO_ACCOUNT_SID='your-account-sid-here'
+TWILIO_AUTH_TOKEN='your-auth-token-here'
 ```
 
 4. Start the Flask app:
