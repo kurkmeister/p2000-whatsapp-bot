@@ -42,7 +42,9 @@ Messages recieved
 
 A WhatsApp location message with the geocoded location will also be sent.
 
-<img src="./whatsapp-sample.jpeg" width="39%"/>
+### Example:
+
+<img style="float: right" src="whatsapp-sample.jpeg" width="39%"/>
 
 ## Installation
 
