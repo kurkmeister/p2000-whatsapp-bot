@@ -11,6 +11,10 @@ Google Cloud Geocoding has free requests up to $200 a month. This is sufficient 
 https://developers.google.com/maps/documentation/geocoding/overview
 https://developers.google.com/maps/documentation/geocoding/usage-and-billing
 
+## What is P2000?
+
+[P2000](https://nl.wikipedia.org/wiki/P2000) is a digital alerting system used in the Netherlands to dispatch emergency services such as fire departments, police, and ambulance services. It provides real-time information about incidents, including their locations and nature.
+
 ## Features
 
 * Sends 3 most recept P2000 messages for given city (default is Amsterdam)
@@ -88,5 +92,8 @@ or
 
 >P2000 Haarlem
 
+## Attribution
+
+The capcode database was retrieved from: http://p2000.bommel.net/manual.php
 
 
