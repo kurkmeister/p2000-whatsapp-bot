@@ -1,0 +1,6 @@
+Flask
+twilio
+python-decouple
+googlemaps
+pandas
+geocode
