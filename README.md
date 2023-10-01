@@ -11,10 +11,19 @@ This is a Python Flask app that sends P2000 messages via Twilio.
 ## Installation
 
 1. Install Python 3 and the following Python packages:
-    * Flask
-    * Twilio
-    * p2000-bot
-    * decouple
+* Flask
+* twilio
+* python-decouple
+* googlemaps
+* pandas
+* geocode
+
+You can also install them using pip:
+
+```
+pip install -r requirements.txt
+```
+
 
 2. Clone this repository:
 
