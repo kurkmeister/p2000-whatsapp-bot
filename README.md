@@ -57,13 +57,9 @@ pip install -r requirements.txt
 ```
 
 
-2. Clone this repository:
+2. Clone this repository
 
-```
-git clone https://github.com/google/twilio-p2000-bot.git
-```
-
-Create a .env file in the root of the repository and add your the following information:
+3. Create a .env file in the root of the repository and add your the following information:
 
 ```
 GOOGLE_GEOCODE_SECRET=''
